@@ -22,7 +22,7 @@ The **Domain Intelligence Agent** is a versatile tool built using **LangChain**,
 
 - **PostgreSQL** with **pgvector extension** installed https://github.com/pgvector/pgvector
 - **SerpAPI API Key** https://serpapi.com/
-- **Hugging Face** API Key (Optional for additional models)
+- **Hugging Face** API Key (Optional for additional models) [No need]
 - **OpenAI API Key** (if using OpenAI model)
 
 ### Installation:
