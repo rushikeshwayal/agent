@@ -29,8 +29,7 @@ The **Domain Intelligence Agent** is a versatile tool built using **LangChain**,
 
 1. **Clone the repository**:
    ```bash
-   git clone
-   cd DomainIntelligenceAgent
+   git clone https://github.com/rushikeshwayal/agent.git
    ```
 
 ### .env
