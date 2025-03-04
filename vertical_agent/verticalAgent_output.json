@@ -1,0 +1,57 @@
+[
+    {
+        "domain_name": "Healthcare: AI-driven Diagnostics and Remote Patient Monitoring",
+        "domain_description": "This domain focuses on the development and implementation of artificial intelligence technologies for medical diagnostics and remote patient monitoring.  It involves creating software and hardware solutions to improve healthcare delivery, reduce costs, and enhance patient care.",
+        "keywords": [
+            "healthcare",
+            "technology",
+            "AI",
+            "artificial intelligence",
+            "diagnostics",
+            "remote patient monitoring",
+            "telemedicine",
+            "medical devices",
+            "hospital",
+            "clinic",
+            "patient care",
+            "cost reduction",
+            "streamlining operations"
+        ],
+        "confidence_score": 0.95
+    },
+    {
+        "domain_name": "Healthcare: AI-driven Healthcare Technology",
+        "domain_description": "MediCare Solutions develops and provides AI-powered diagnostic and remote patient monitoring solutions for hospitals, clinics, and healthcare providers globally.  Their focus is on improving patient care, reducing costs, and streamlining operations through technology.",
+        "keywords": [
+            "AI",
+            "healthcare",
+            "technology",
+            "diagnostics",
+            "remote patient monitoring",
+            "telemedicine",
+            "hospital",
+            "clinic",
+            "patient care",
+            "cost reduction",
+            "streamlining operations"
+        ],
+        "confidence_score": 0.98
+    },
+    {
+        "domain_name": "Healthcare: AI-driven Remote Patient Monitoring",
+        "domain_description": "This domain focuses on the development and implementation of artificial intelligence technologies for remote patient monitoring, enabling proactive healthcare management, early disease detection, and improved patient outcomes.  It involves the use of wearable sensors, telehealth platforms, and sophisticated algorithms to analyze patient data and provide timely interventions.",
+        "keywords": [
+            "AI",
+            "Artificial Intelligence",
+            "Remote Patient Monitoring",
+            "RPM",
+            "Diagnostics",
+            "Telehealth",
+            "Wearable Sensors",
+            "Healthcare Technology",
+            "Patient Care",
+            "Data Analytics"
+        ],
+        "confidence_score": 0.95
+    }
+]
